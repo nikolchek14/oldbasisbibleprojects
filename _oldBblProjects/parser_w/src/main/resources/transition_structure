@@ -1,0 +1,204 @@
+Библија
+	Страна
+	    број
+	    вовед
+	        линии list<string>
+		колона1
+		    линии list<string>
+		колона2
+		    линии list<string>
+		референци1
+		    линии list<string>
+		референци2
+		    линии list<string>
+
+		    Секоја страна со вовед ќе биде мануелно проверена
+
+12x14
+		    6 (h17) - текст alt 23(h12) (90-200 ; 300-500)
+		    7 (h8 w5/9) - стих
+		    7 (h10) - референца (l >650 <90) alt 7(h7)
+            8 (h16) - boldref 28(h13)
+            9 (h18) podnaslov alt 23(h11)
+            10 (h45) glava alt 17 (h43) 17 (h42) 20 (h46) 21(h44) 22(h47) 24(h36) 26(h36) 27(h35) 29(h37) 30(h34) 31(h33) 32(h42)
+            11 (h32) kniga naslov alt 25(h22)
+            12 (h19) vtor naslov ili na sekoja strana ??? 5tatuh
+            13 (h18) voved 23(h12)
+            14 (h18) voved tekst 9(h18) 23(h11) 23(h14)
+            15 (h16) strana
+            16 (h14) futnota alt 18(h10)
+            16 (h18) futnota tekst
+            18 (h11) futnota markacija
+            18 (h14) futnota tekst vtora linija alt 18h13
+            19 (h14) referenci na podnaslov
+            23 (h17) tekst so defekti
+
+            ///
+            {12h14=620 CHECK
+             6h17=76551 TEXT(OK)
+             12h19=796 *
+             15h16=1411 PAGE(IGNORE)(some different)
+             13h18=42 VOVED(OK)
+             16h18=153 FOOTNOTA TEKST(OK)
+             7h7=23345 REFERENCA (OK)
+             7h8=35897 STIH (OK)
+             14h18=1037 VOVED TEKST (OK)
+             18h14=21 futnota tekst vtora linija (OK)
+             7h10=31805 REFERENCA (OK)
+             16h14=141 FUTNOTA (OK)
+             18h11=26 futnota markacija (OK)
+             9h18=2356 PODNASLOV (OK)
+             18h10=54 FUTNOTA (OK)
+             8h16=11089 BOLDREF (OK)
+             18h13=2 futnota tekst vtora linija (OK)
+             19h14=372 referenci na podnaslov (OK)
+             23h12=60711 TEKST (OK)
+             23h14=4 VOVED TEKST (OK)
+             23h17=2 tekst so defekti (OK)
+             23h11=2422 PODNASLOV (OK)
+             25h22=35 kniga naslov (OK)
+             28h13=8780} BOLDREF (OK)
+            ///
+
+ 18h14=21 "" futnota tekst vtora linija OK
+  18h11=26 "" futnota markacija
+  18h10=54 ""
+  18h13=2 **
+
+  3h19=4 ""
+  13h18=42 ""
+  7h10=31805 ??
+
+  23h12=60711 ??
+
+  23h14=4 ""
+  23h17=2 ""
+
+{12h14=620 /
+17h42=5 \?
+22h47=4 /?
+28h13=8780 *
+ 6h17=76551 /
+ 12h19=796 /
+ 16h18=153 /
+ 16h14=141 /
+ 17h43=14 /?
+ 3h24=7 *
+  25h22=35 *
+  11h32=51 *
+ 4h35=1 *
+ 21h43=6 /?
+ 24h36=145 /?
+ 21h44=45 /?
+ 24h37=3 /?
+ 21h46=1 /?
+ 10h44=64 /?
+ 10h45=367 /?
+ 2h28=1 *
+ 15h16=1411 /
+ 30h34=31 /?
+ 9h18=2356 /
+ 30h33=2 /?
+ 19h14=372 /
+ 20h46=130 /?
+ 20h45=33 /?
+ 27h35=21 /?
+ 27h34=8 /?
+ 32h41=2 /?
+ 32h42=3 /?
+ 7h7=23345 //
+ 7h8=35897 //
+ 14h18=1037 /
+ 1h28=1 *
+ 5h21=4 *
+
+  8h16=11089 /
+  31h33=2 /?
+  26h35=70 /?
+  26h36=251 /?
+ 29h37=3 /?
+  0h55=1 *
+ 23h11=2422 /}
+
+
+
+{23h12=30309    tekst *
+ 6h17=38201     tekst *
+ 16h18=155      futnota tekst ?
+ 7h8=17871      stihoj
+ 14h18=82       podnaslov ref
+ 18h14=21       futnota tekst ?
+ 16h14=76       futnota sup ?
+ 18h11=27       futnota mark ?
+ 9h18=1210      podnaslov
+ 18h10=43       futnoti meshano ?
+ 23h11=967      podnaslov *
+ 19h14=172}     podnaslov ref
+ 
+ 
+ {10h44=31 ok
+ 32h41=2    ok
+ 32h42=1    ok
+ 10h45=214  ok
+ 30h34=16   ok
+ 17h43=11   ok
+ 31h33=2    ok
+ 17h42=3    ok
+ 24h36=83   ok
+ 21h43=2    ok
+ 21h44=28   ok
+ 22h47=4    ok
+ 24h37=1    ok
+ 29h37=3    ok
+ 20h46=78   ok
+ 20h45=15   ok
+ 26h35=40   ok
+ 26h36=148  ok
+ 27h35=15   ok
+ 27h34=7}   ok
+ 
+ {6h17d49=1
+ 6h17d29=1
+ 6h17d28=1
+ 6h17d2=42
+ 6h17d0=65
+ 6h17d1=33
+ 6h17d555=1
+ 6h17d23=287
+ 6h17d45=4
+ 6h17d22=188
+ 6h17d44=3
+ 6h17d571=1
+ 6h17d47=2
+ 6h17d24=11
+ 6h17d46=2
+ 6h17d6=322
+ 6h17d7=47
+ 6h17d4=12
+ 6h17d43=2
+ 6h17d21=12
+ 6h17d5=7
+ 6h17d42=3
+ 6h17d64=1
+ 6h17d20=80
+ 6h17d19=47
+ 6h17d16=13205
+ 6h17d15=572
+ 6h17d18=323
+ 6h17d17=12530
+ 6h17d39=2
+ 6h17d728=1
+ 6h17d50=2
+ 6h17d12=402
+ 6h17d33=1
+ 6h17d11=2
+ 6h17d14=3936
+ 6h17d36=1
+ 6h17d13=5327
+ 6h17d32=1
+ 6h17d10=1
+ 6h17d122=720}
+
+
+
+

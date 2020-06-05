@@ -1,0 +1,7 @@
+Библија
+	Книга
+		вовед
+		глави
+			линии / стихој
+				референци <string or list of string> can be null
+				поднаслов can be null

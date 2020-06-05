@@ -1,0 +1,53 @@
+Библија
+	Книга
+	    име
+	    кратко име
+	    навбар име
+	    број
+		вовед
+		    параграфи list<string>
+		глави
+		    број
+			линии / стихој
+			    број
+				референци list<string> can be null
+				поднаслов can be null
+				
+[Stih{redenBroj=1, podnaslov=Podnaslov{podnaslov='Христос е поголем од Мојсеј', megunaslov='null', referenci='null'}, tekst='Затоа, браќа свети, учесници во небесното призвание, размислете за Пратеникот и Првосвештеникот на нашата вера, Исус Христос.', futnoti={}, referenci=[], dodatok='null'
+{redenBroj=2, podnaslov=Podnaslov{podnaslov='null', megunaslov='null', referenci='null'}, tekst='Кој Му беше верен на Оној Кој Го поставил, како и Мојсеј – во целиот негов дом.', futnoti={}, referenci=[], dodatok='null'
+{redenBroj=3, podnaslov=Podnaslov{podnaslov='null', megunaslov='null', referenci='null'}, tekst='Зашто Тој се удостои со слава, толку поголема од Мојсеевата, колку што е поголема почитта што ја има оној што го изградил домот од почитта што ја има домот!', futnoti={}, referenci=[], dodatok='null'
+{redenBroj=4, podnaslov=Podnaslov{podnaslov='null', megunaslov='null', referenci='null'}, tekst='Зашто секој дом се гради од некого; а Оној, Кој изградил сѐ, е Бог.', futnoti={}, referenci=[], dodatok='null'
+{redenBroj=5, podnaslov=Podnaslov{podnaslov='null', megunaslov='null', referenci='null'}, tekst='И Мојсеј Му беше верен како слуга на целиот Негов дом, за да го посведочи она што требаше да се соопшти.', futnoti={}, referenci=[], dodatok='null'
+{redenBroj=6, podnaslov=Podnaslov{podnaslov='null', megunaslov='null', referenci='null'}, tekst='Христос, како Син, е верен во Божјиот дом. Негов дом, пак, сме ние, само ако слободата и надежта, со кои се фалиме, ги запазиме до крај.', futnoti={}, referenci=[], dodatok='null'
+{redenBroj=7, podnaslov=Podnaslov{podnaslov='Спокој за Божјите луѓе', megunaslov='null', referenci='null'}, tekst='Поради тоа, како што вели Светиот Дух: „Денес, ако го чуете гласот Негов,', futnoti={}, referenci=[], dodatok='null'
+{redenBroj=8, podnaslov=Podnaslov{podnaslov='null', megunaslov='null', referenci='null'}, tekst='не жесточете ги срцата свои, како во огорченоста на денот на искушувањето во пустината,', futnoti={}, referenci=[], dodatok='null'
+{redenBroj=9, podnaslov=Podnaslov{podnaslov='null', megunaslov='null', referenci='null'}, tekst='каде што татковците ваши Ме искушаа, Ме испитуваа, иако ги гледаа делата Мои преку четириесет години.', futnoti={}, referenci=[], dodatok='null'
+{redenBroj=10, podnaslov=Podnaslov{podnaslov='null', megunaslov='null', referenci='null'}, tekst='Затоа се разгневив на тој род и реков, секогаш се заблудуваа во срцата свои и не ги познаа патиштата Мои.', futnoti={}, referenci=[], dodatok='null'
+{redenBroj=11, podnaslov=Podnaslov{podnaslov='null', megunaslov='null', referenci='null'}, tekst='Па така се заколнав во Својот гнев дека нема да влезат во Мојот спокој.“', futnoti={}, referenci=[], dodatok='null'
+{redenBroj=12, podnaslov=Podnaslov{podnaslov='null', megunaslov='null', referenci='null'}, tekst='Браќа, гледајте, да не би во некого од вас, да има зло и неверно срце, та да отстапи од живиот Бог.', futnoti={}, referenci=[], dodatok='null'
+{redenBroj=13, podnaslov=Podnaslov{podnaslov='null', megunaslov='null', referenci='null'}, tekst='Туку храбрете се секој ден еден по друг додека сѐ уште се вели: „Денес“, та никој од вас да не отрпне преку измамата на гревот;', futnoti={}, referenci=[], dodatok='null'
+{redenBroj=14, podnaslov=Podnaslov{podnaslov='null', megunaslov='null', referenci='null'}, tekst='зашто ние станавме соработници на Христос. Само ако ја задржиме цврсто до крај првобитната цврста подлога;', futnoti={}, referenci=[], dodatok='null'
+{redenBroj=15, podnaslov=Podnaslov{podnaslov='null', megunaslov='null', referenci='null'}, tekst='А кои беа тие што чуја и пак се побунија? Зар не беа тоа сите оние кои со Мојсеј излегоа од Египет?', futnoti={}, referenci=[], dodatok='null'
+{redenBroj=17, podnaslov=Podnaslov{podnaslov='null', megunaslov='null', referenci='null'}, tekst='Против кого негодуваше Тој четириесет години? Нели против оние што погрешија и чии коски останаа во пустината?', futnoti={}, referenci=[], dodatok='null'
+{redenBroj=18, podnaslov=Podnaslov{podnaslov='null', megunaslov='null', referenci='null'}, tekst='А на кои им се заколнал дека нема да влезат во Неговиот спокој ако не на оние, што беа непослушни?', futnoti={}, referenci=[], dodatok='null'
+{redenBroj=19, podnaslov=Podnaslov{podnaslov='null', megunaslov='null', referenci='null'}, tekst='И така, гледаме дека тие не можеа да влезат поради неверието.', futnoti={}, referenci=[], dodatok='null'}]
+
+[Stih{redenBroj=1, podnaslov=Podnaslov{podnaslov='Христос е поголем од Мојсеј', megunaslov='null', referenci='null'}, tekst='Затоа, браќа свети, учесници во небесното призвание, размислете за Пратеникот и Првосвештеникот на нашата вера, Исус Христос.', futnoti={}, referenci=[Referenca{originalenStih='***+++3,1 *+*+*+', referenci=[2,11 , 4,14 , 10,23 , Ис 17,7 , 2 Кор 9,13 , Фил 3,14 ]}], dodatok='null'
+{redenBroj=2, podnaslov=Podnaslov{podnaslov='null', megunaslov='null', referenci='null'}, tekst='Кој Му беше верен на Оној Кој Го поставил, како и Мојсеј – во целиот негов дом.', futnoti={}, referenci=[], dodatok='null'
+{redenBroj=3, podnaslov=Podnaslov{podnaslov='null', megunaslov='null', referenci='null'}, tekst='Зашто Тој се удостои со слава, толку поголема од Мојсеевата, колку што е поголема почитта што ја има оној што го изградил домот од почитта што ја има домот!', futnoti={}, referenci=[Referenca{originalenStih='***+++3 *+*+*+', referenci=[8,6 , 2 Кор 3,7 ]}], dodatok='null'
+{redenBroj=4, podnaslov=Podnaslov{podnaslov='null', megunaslov='null', referenci='null'}, tekst='Зашто секој дом се гради од некого; а Оној, Кој изградил сѐ, е Бог.', futnoti={}, referenci=[], dodatok='null'
+{redenBroj=5, podnaslov=Podnaslov{podnaslov='null', megunaslov='null', referenci='null'}, tekst='И Мојсеј Му беше верен како слуга на целиот Негов дом, за да го посведочи она што требаше да се соопшти.', futnoti={}, referenci=[Referenca{originalenStih='***+++5 *+*+*+', referenci=[2 Мојс, 14,31 , 4 Мојс 12,7 , Откр 15,3 ]}], dodatok='null'
+{redenBroj=6, podnaslov=Podnaslov{podnaslov='null', megunaslov='null', referenci='null'}, tekst='Христос, како Син, е верен во Божјиот дом. Негов дом, пак, сме ние, само ако слободата и надежта, со кои се фалиме, ги запазиме до крај.', futnoti={}, referenci=[Referenca{originalenStih='***+++6 *+*+*+', referenci=[4,16 , 1 Лет, 17,12-14 , Рим 5,2 , 1 Кор 3,16 , 6,19 , Ефес 2,, 19-22 , Кол 1,23 , 1 Тим 3,15 , 1 Птр 2,5 ]}], dodatok='null'
+{redenBroj=7, podnaslov=Podnaslov{podnaslov='Спокој за Божјите луѓе', megunaslov='null', referenci='null'}, tekst='Поради тоа, како што вели Светиот Дух: „Денес, ако го чуете гласот Негов,', futnoti={}, referenci=[Referenca{originalenStih='***+++7-11 *+*+*+', referenci=[Пс 95,7-11 ]}, Referenca{originalenStih='***+++7 *+*+*+', referenci=[9,8; 10,15 , Мт 22,43 , Дела 28,25 ]}], dodatok='null'
+{redenBroj=8, podnaslov=Podnaslov{podnaslov='null', megunaslov='null', referenci='null'}, tekst='не жесточете ги срцата свои, како во огорченоста на денот на искушувањето во пустината,', futnoti={}, referenci=[Referenca{originalenStih='***+++8 *+*+*+', referenci=[2 Мојс 17,7 ]}], dodatok='null'
+{redenBroj=9, podnaslov=Podnaslov{podnaslov='null', megunaslov='null', referenci='null'}, tekst='каде што татковците ваши Ме искушаа, Ме испитуваа, иако ги гледаа делата Мои преку четириесет години.', futnoti={}, referenci=[], dodatok='null'
+{redenBroj=10, podnaslov=Podnaslov{podnaslov='null', megunaslov='null', referenci='null'}, tekst='Затоа се разгневив на тој род и реков, секогаш се заблудуваа во срцата свои и не ги познаа патиштата Мои.', futnoti={}, referenci=[Referenca{originalenStih='***+++10 *+*+*+', referenci=[Дела 7,36 ]}], dodatok='null'
+{redenBroj=11, podnaslov=Podnaslov{podnaslov='null', megunaslov='null', referenci='null'}, tekst='Па така се заколнав во Својот гнев дека нема да влезат во Мојот спокој.“', futnoti={}, referenci=[Referenca{originalenStih='***+++11 *+*+*+', referenci=[4 Мојс, 14,21-23 , 5 Мојс, 1,34-35 ]}], dodatok='null'
+{redenBroj=12, podnaslov=Podnaslov{podnaslov='null', megunaslov='null', referenci='null'}, tekst='Браќа, гледајте, да не би во некого од вас, да има зло и неверно срце, та да отстапи од живиот Бог.', futnoti={}, referenci=[Referenca{originalenStih='***+++12 *+*+*+', referenci=[3,8; 10,22 , 12,15 , Ер 18,12 ]}], dodatok='null'
+{redenBroj=13, podnaslov=Podnaslov{podnaslov='null', megunaslov='null', referenci='null'}, tekst='Туку храбрете се секој ден еден по друг додека сѐ уште се вели: „Денес“, та никој од вас да не отрпне преку измамата на гревот;', futnoti={}, referenci=[Referenca{originalenStih='***+++13 *+*+*+', referenci=[3,7; 10,24 , Рим 7,11 , 2 Кор 6,1-2 , 1 Сол 5,11 , 2 Сол 2,10 ]}], dodatok='null'
+{redenBroj=14, podnaslov=Podnaslov{podnaslov='null', megunaslov='null', referenci='null'}, tekst='зашто ние станавме соработници на Христос. Само ако ја задржиме цврсто до крај првобитната цврста подлога;', futnoti={}, referenci=[Referenca{originalenStih='***+++14 *+*+*+', referenci=[11,1 ]}], dodatok='null'
+{redenBroj=15, podnaslov=Podnaslov{podnaslov='null', megunaslov='null', referenci='null'}, tekst='додека се вели: „Денес, кога ќе го чуете Неговиот глас, да не отрпнат срцата ваши онака како кога се побунивте.“', futnoti={}, referenci=[Referenca{originalenStih='***+++15 *+*+*+', referenci=[Пс 95,7-8 ]}], dodatok='null'
+{redenBroj=1, podnaslov=Podnaslov{podnaslov='null', megunaslov='null', referenci='null'}, tekst='А кои беа тие што чуја и пак се побунија? Зар не беа тоа сите оние кои со Мојсеј излегоа од Египет?', futnoti={}, referenci=[], dodatok='null'
+{redenBroj=17, podnaslov=Podnaslov{podnaslov='null', megunaslov='null', referenci='null'}, tekst='Против кого негодуваше Тој четириесет години? Нели против оние што погрешија и чии коски останаа во пустината?', futnoti={}, referenci=[Referenca{originalenStih='***+++17 *+*+*+', referenci=[4 Мојс, 14,29 ]}], dodatok='null'
+{redenBroj=18, podnaslov=Podnaslov{podnaslov='null', megunaslov='null', referenci='null'}, tekst='А на кои им се заколнал дека нема да влезат во Неговиот спокој ако не на оние, што беа непослушни?', futnoti={}, referenci=[Referenca{originalenStih='***+++18 *+*+*+', referenci=[5 Мојс 1,26 , 1 Кор 10,5 ]}], dodatok='null'
+{redenBroj=19, podnaslov=Podnaslov{podnaslov='null', megunaslov='null', referenci='null'}, tekst='И така, гледаме дека тие не можеа да влезат поради неверието.', futnoti={}, referenci=[Referenca{originalenStih='***+++19 *+*+*+', referenci=[3,12; 4,6 , Пс 78,22 , 106,24 , Јн 3,36 ]}], dodatok='null'}]
